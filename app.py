@@ -9,7 +9,7 @@ while True:
         pg.alert(text='Encerrando o progama.', title='Fim')
         break
 
-    if escolha == 'Verificar Triângulo':
+    if escolha == 'Verificar um novo triângulo':
         # --- ENTRADA DE DADOS ---
         # O prompt abre uma caixa para digitar. Precisamos converter para float.
         try:

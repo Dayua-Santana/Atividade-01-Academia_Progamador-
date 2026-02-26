@@ -23,7 +23,7 @@ Este software automatiza a validação e classificação de triângulos através
 Bash
 python nome_do_seu_arquivo.py
 
-## 📐 Lógica de Validação (Regras de Negócio)
+## 📐 Lógica de Validação
 
 O sistema segue um fluxo de inspeção rigoroso para garantir a precisão geométrica:
 

@@ -3,7 +3,7 @@ import pyautogui as pg
 while True:
     # --- O MENU VISUAL ---
     # Criamos uma janelinha com botões
-    escolha = pg.confirm(text='O que deseja fazer?', title='Sistema de Triângulos', buttons=['Verificar Triângulo', 'Sair'])
+    escolha = pg.confirm(text='O que deseja fazer?', title='Sistema de Triângulos', buttons=['Verificar um Novo Triângulo', 'Sair'])
 
     if escolha == 'Sair' or escolha is None:
         pg.alert(text='Encerrando o progama.', title='Fim')
